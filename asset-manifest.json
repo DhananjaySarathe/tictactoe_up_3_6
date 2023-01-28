@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tictactoe_up_3_6/static/js/main.ca96c5e7.js",
+    "main.js": "/tictactoe_up_3_6/static/js/main.eb5f3ba1.js",
     "index.html": "/tictactoe_up_3_6/index.html",
-    "main.ca96c5e7.js.map": "/tictactoe_up_3_6/static/js/main.ca96c5e7.js.map"
+    "main.eb5f3ba1.js.map": "/tictactoe_up_3_6/static/js/main.eb5f3ba1.js.map"
   },
   "entrypoints": [
-    "static/js/main.ca96c5e7.js"
+    "static/js/main.eb5f3ba1.js"
   ]
 }
