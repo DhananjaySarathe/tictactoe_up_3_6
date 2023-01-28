@@ -1,0 +1,67 @@
+*{
+    background-color: #636300;
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+}
+
+.col{
+    border: 3px solid black;
+    height: 15vh;
+    width: 12vh;
+}
+
+.bu{
+    border-top: none;
+}
+.bl{
+    border-left: 0px;
+}
+.br{
+    border-right: 0px;
+}
+.bb{
+    border-bottom: 0px;
+}
+
+.board{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    border: 5px solid rgb(94, 7, 99);
+    margin-top: 7%;
+    margin-bottom: 15%;
+    padding: 1.5%;
+}
+
+.won{
+    background-color: orange;
+    border: 13px solid orange;
+}
+
+.row div{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    /* text-align: center; */
+    font-size: 50px;
+}
+
+.winbox{
+    background-color: #006b15;
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+}
+
+button{
+    margin: 6%;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.rule{
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
