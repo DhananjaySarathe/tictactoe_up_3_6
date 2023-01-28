@@ -30,7 +30,7 @@ function Wincase(props)
     return (
         <>
         <div className="container-fluid info"> 
-        <h1 className="rule"> Maximum 6 places can be Filled </h1>
+        <h1 className="rule"> Maximum 5 places can be Filled </h1>
         {props.help===0 && <h2>Turn for Player {props.turn==='X'?1:2} </h2>}
         {props.help===1 && <h2 className="won">Player {props.turn==='X'?2:1} Won</h2>}
         </div>
